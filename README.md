@@ -21,7 +21,7 @@ Website Setup:
 4. Set up nginx (reverse proxy):
     a. apt install nginx
     b. cd /etc/nginx
-    c. nano nginx.conf 
+    c. nano nginx.conf. Add proxy_pass http://localhost:5000; to the file.
     d. service nginx restart
 
 
