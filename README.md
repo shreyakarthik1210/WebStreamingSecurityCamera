@@ -1,6 +1,7 @@
 # WebStreamingSecurityCamera
 A live security camera built with Raspberry Pi.
 
+
 Set up Raspberry Pi:
 
 1. Install the Raspbian OS (Debian: Bookworm version) using the Raspberry Pi Imager application (https://www.raspberrypi.com/software/). Use cat /etc/os-release to check the current OS version. 
@@ -24,10 +25,13 @@ Website Setup:
     d. service nginx restart
 
 
-References:
-DuckDNS: https://www.youtube.com/watch?v=s-66gmIHoyE
-Nginx: https://www.youtube.com/watch?v=KWIIPKbdxD0
-Reference Git Hub Repo: https://github.com/avseng/LiveStramingCamera 
 
 Architecture Diagram:
 ![WebStreaming_Security_Architecture](https://github.com/shreyakarthik1210/WebStreamingSecurityCamera/assets/52420053/c9f7fe22-335d-43ed-9b3b-74e5efbeb291)
+
+
+
+References:
+1. DuckDNS: https://www.youtube.com/watch?v=s-66gmIHoyE
+2. Nginx: https://www.youtube.com/watch?v=KWIIPKbdxD0
+3. Reference Git Hub Repo: https://github.com/avseng/LiveStramingCamera 
